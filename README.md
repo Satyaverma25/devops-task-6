@@ -4,7 +4,7 @@ This repository contains the submission for **Task 6** of the DevOps internship.
 
 ## 🔗 Live Website
 
-Visit the hosted website here: [https://satyaverma25.github.io/devops-task-6](https://satyaverma25.github.io/devops-task-6)
+Visit the hosted website here: https://satyaverma25.github.io/devops-task-6/
 
 ## 📁 Contents
 
